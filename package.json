@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/donkirkby/webpack-gh-pages.git"
+    "url": "git+https://github.com/inholeed/webpackpage.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/donkirkby/webpack-gh-pages/issues"
+    "url": "https://github.com/inholeed/webpackpage/issues"
   },
-  "homepage": "https://github.com/donkirkby/webpack-gh-pages#readme",
+  "homepage": "https://github.com/inholeed/webpackpage#readme",
   "devDependencies": {
     "jasmine": "^3.6.4",
     "karma": "^6.1.1",
